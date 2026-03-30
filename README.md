@@ -7,7 +7,7 @@ Complete DCF and comps analysis on the listed retail stock in India.
 Intrinsic value: ₹1,528 per share. CMP: ₹4,285.
 Stock overvalued by 64%.
 
-**LBO Mode:l**
+**LBO Mode:**
 Private equity buyout analysis with multiple-tranche debt.
 Investor achieves 31.2% IRR and 3.88x cash-on-cash over 5 years.
 
