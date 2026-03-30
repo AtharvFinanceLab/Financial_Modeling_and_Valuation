@@ -2,7 +2,7 @@
 
 7 financial models built from scratch across equity research, PE, M&A, real estate, project finance, and startup valuation.
 
-Trent Ltd - Equity Research
+**Trent Ltd - Valuation Model**:
 Complete DCF and comps analysis on the listed retail stock in India.
 Intrinsic value: ₹1,528 per share. CMP: ₹4,285.
 Stock overvalued by 64%.
